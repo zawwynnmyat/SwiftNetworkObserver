@@ -7,6 +7,7 @@
 
 Example:
 
+```swift
 import SwiftUI
 import SwiftNetworkObserver
 
@@ -22,9 +23,11 @@ struct PROJECT_NameApp: App {
         }
     }
 }
+```
 
 In ContentView.swift
 
+```swift
 import SwiftUI
 import SwiftNetworkObserver
 
@@ -48,4 +51,5 @@ struct ContentView: View {
         }
     }
 }
+```
 
